@@ -1,3 +1,0 @@
-/mnt/c/Users/admir/CLionProjects/game-aerohockey-blockain/aerohockey-game/cmake-build-debug/CMakeFiles/game_aerohockey_blockain.dir
-/mnt/c/Users/admir/CLionProjects/game-aerohockey-blockain/aerohockey-game/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/admir/CLionProjects/game-aerohockey-blockain/aerohockey-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
