@@ -24,3 +24,8 @@ polkadot.*
 
 # NixOS development environment
 .envrc
+
+
+aerohockey-game/build/
+aerohockey-game/*.o
+aerohockey-game/*.exe
