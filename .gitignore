@@ -26,6 +26,6 @@ polkadot.*
 .envrc
 
 
-aerohockey-game/build/
+aerohockey-game/cmake-build-debug/
 aerohockey-game/*.o
 aerohockey-game/*.exe
